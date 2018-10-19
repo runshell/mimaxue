@@ -1,4 +1,4 @@
-﻿#作者：刘兴涛
+﻿#作者：xbillow
 kk="""Beuvq ulevhou. Nlxtuoveh prn mvaatgteu ulevhou.
 Uotgt prn re tmht ul uovn mrgjetnn uoru xrmt ovn orfjqtn gvnt.
 Evet mrdn uotd orm ytte gvmveh, elguo rem elguoptnu rem uote elguo rhrve,
