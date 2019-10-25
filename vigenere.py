@@ -21,6 +21,7 @@ def E(mingwen="family",key="good"):
     LEN=len(key)
     for c in mingwen:
         miwen+=chr((ord(c)+ord(key[i%LEN]))%26+ord("A"))
+        i+=1
     return miwen
 
 #解密函数
@@ -32,4 +33,5 @@ def D(miwen="family",key="good"):
     LEN=len(key)
     for c in miwen:
         mingwen+=chr((ord(c)-ord(key[i%LEN]))%26+ord("A"))
+        i+=1
     return mingwen
